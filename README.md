@@ -1,6 +1,7 @@
 # clawdbot-skills
 
-I gather here my personal collection of [clawdbot](https://github.com/clawdbot/clawdbot) skills.
+My personal collection of Clawdbot skills.
+Original repo: git@github.com:clawdbot/clawdbot.git
 
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat&colorA=18181B&colorB=28CF8D)
 [![Stars](https://img.shields.io/github/stars/regenrek/clawdbot-skills.svg?style=flat&colorA=18181B&colorB=28CF8D)](https://github.com/regenrek/clawdbot-skills/stargazers)
@@ -11,10 +12,11 @@ I gather here my personal collection of [clawdbot](https://github.com/clawdbot/c
 ## About Clawdbot
 
 Clawdbot is a personal AI assistant you run on your own devices. It answers on WhatsApp, Telegram, Slack, Discord, Signal, iMessage, and WebChat, can speak/listen on macOS/iOS/Android, and can render a live Canvas you control.
+Summary from `/Users/kregenrek/projects/external-codebase/warelay/README.md`.
 
 ## Available skills
 
-- smartthings/samsung-smart-tv — Control Samsung TVs via SmartThings (OAuth app + device control).
+- skills/smartthings/samsung-smart-tv — Control Samsung TVs via SmartThings (OAuth app + device control).
 
 ## Links
 
